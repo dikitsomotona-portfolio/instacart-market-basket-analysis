@@ -13,6 +13,7 @@ The analysis explores customer purchasing behaviour, product trends and relation
 * NumPy
 * Matplotlib
 * Google Colab
+* Google Drive 
 
 ## Project Work
 
