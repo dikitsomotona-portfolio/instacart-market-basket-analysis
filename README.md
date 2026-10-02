@@ -65,3 +65,10 @@ The repository contains the notebooks used throughout the analysis:
 
 The project demonstrates the use of Python and statistical analysis techniques to explore a large retail dataset and derive insights from customer purchasing behaviour.
 
+## Dataset
+
+The project uses the Instacart grocery shopping dataset provided for the analysis.
+
+The original dataset files and intermediate/processed data files are not included in this repository. The notebooks contain the Python code used to load, clean, transform and analyse the data while the `outputs/figures` folder contains the generated visualisations and analysis results.
+
+
