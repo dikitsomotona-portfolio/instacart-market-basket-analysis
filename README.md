@@ -13,7 +13,7 @@ The analysis explores customer purchasing behaviour, product trends and relation
 * NumPy
 * Matplotlib
 * Google Colab
-* Google Drive 
+* Google Drive
 
 ## Project Work
 
@@ -49,6 +49,17 @@ The repository contains the notebooks used throughout the analysis:
 6. `T07_ChiSquare_GOF.ipynb`
 7. `T10_ChiSquare_Independence.ipynb`
 
+## Outputs
+
+The `outputs/figures` folder contains the graphs and visualisations generated during the analysis, including:
+
+* Distribution plots
+* Bar charts
+* Scatter plots
+* Heatmaps
+* Boxplots
+* Statistical analysis visualisations
+
 ## Key Skills Demonstrated
 
 * Python programming for data analysis
@@ -59,7 +70,7 @@ The repository contains the notebooks used throughout the analysis:
 * Hypothesis testing
 * Chi-Square testing
 * Interpreting analytical results
-* Working with real-world retail data
+* Working with retail data
 
 ## Project Outcome
 
@@ -69,6 +80,4 @@ The project demonstrates the use of Python and statistical analysis techniques t
 
 The project uses the Instacart grocery shopping dataset provided for the analysis.
 
-The original dataset files and intermediate/processed data files are not included in this repository. The notebooks contain the Python code used to load, clean, transform and analyse the data while the `outputs/figures` folder contains the generated visualisations and analysis results.
-
-
+The original dataset files and intermediate/processed data files are not included in this repository. The notebooks contain the Python code used to load, clean, transform and analyse the data, while the `outputs/figures` folder contains the generated visualisations and analysis results.
